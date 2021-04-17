@@ -8,4 +8,4 @@
 Faithful1991/Faithful1991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[FAITHFUL RESUME.docx](https://github.com/Faithful1991/Faithful1991/files/6329976/FAITHFUL.RESUME.docx)
+[Oji Faithful Resume.docx](https://github.com/Faithful1991/Faithful1991/files/6330028/Oji.Faithful.Resume.docx)
